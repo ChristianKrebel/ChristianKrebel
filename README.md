@@ -1,7 +1,8 @@
 ### That's me
 
-My name is Christian Krebel, I am from Germany and currently studying computer science.  
-I like: photography, gaming, cinema, metal, edm & veggie lifestyle  
+My name is Christian Krebel, I am from Germany and developing full stack applications.
 
-**In my public repos:**  
-[![Top languages in my public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianKrebel&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+| I use | I like |
+| -----------------------|---- |
+| <ul><li>Kotlin, Java (Spring Boot)</li><li>Javascript (Vue.js, Nuxt.js)</li><li>Docker and compose</li><li>RDBMS</li></ul> | <ul><li>photography</li><li>gaming</li><li>cinema</li><li>metal</li><li>edm</li><li>veggie lifestyle</li></ul> |
+
